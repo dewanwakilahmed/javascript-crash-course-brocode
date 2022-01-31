@@ -27,3 +27,6 @@ console.log("Modulus of 3:", friends);
 
 friends = 10 + 2 / 2;
 console.log(friends);
+
+friends = (10 + 2) / 2;
+console.log(friends);
